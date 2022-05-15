@@ -49,7 +49,7 @@
 		94040075282D241A000D92BC = {
 			isa = PBXGroup;
 			children = (
-				94040080282D241A000D92BC /* ListApp */,
+				94040080282D241A000D92BC /* UsersListSwiftUI */,
 				9404007F282D241A000D92BC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -62,7 +62,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		94040080282D241A000D92BC /* ListApp */ = {
+		94040080282D241A000D92BC /* UsersListSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
 				94040081282D241A000D92BC /* ListAppApp.swift */,
@@ -75,7 +75,7 @@
 				94040085282D241D000D92BC /* Assets.xcassets */,
 				94040087282D241D000D92BC /* Preview Content */,
 			);
-			path = ListApp;
+			path = UsersListSwiftUI;
 			sourceTree = "<group>";
 		};
 		94040087282D241D000D92BC /* Preview Content */ = {
@@ -342,7 +342,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ListApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"UsersListSwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = 542Y3NFQDC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -371,7 +371,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ListApp/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"UsersListSwiftUI/Preview Content\"";
 				DEVELOPMENT_TEAM = 542Y3NFQDC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
